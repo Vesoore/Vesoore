@@ -20,9 +20,9 @@ I love work with LLMs, VLMs and research something new in AI world!
 ---
 
 ## 🛠 Skills  
-- **Programming Languages**: Python, C++, Go  
-- **ML**: CatBoost, sklearn, PyTorch, Optuna  
-- **NLP**: Transformers (BERT, LLaMA, VLMs), gensim, FAISS, RAG, peft, vllm, llama-index, nltk, trl  
+- **Programming Languages**: Python, C/C++, Go  
+- **ML**: CatBoost/lightgbm, sklearn, PyTorch, Optuna  
+- **NLP**: Transformers (BERT, LLaMA, VLMs), gensim, FAISS/Chroma, RAG, peft, vllm, llama-index, nltk, trl  
 - **Databases**: PostgreSQL, psycopg2  
 - **Visualization Tools**: matplotlib, seaborn  
 
