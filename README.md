@@ -1,6 +1,6 @@
 # Hi there! 👋  
 My name is Aleksandr, and I am a ML Engineer based in Russia, Moscow.
-I love work with LLMs, VLMs and research something new in AI world!
+I love work with LLMs and research something new in AI world!
 
 ---
 
@@ -24,7 +24,8 @@ I love work with LLMs, VLMs and research something new in AI world!
 - **ML**: CatBoost/lightgbm, sklearn, PyTorch, Optuna  
 - **NLP**: Transformers (BERT, LLaMA, VLMs), gensim, FAISS/Chroma, RAG, peft, vllm, llama-index, nltk, trl  
 - **Databases**: PostgreSQL, psycopg2  
-- **Visualization Tools**: matplotlib, seaborn  
+- **Visualization Tools**: matplotlib, seaborn
+- **Backend**: FastApi, gin, Docker, Git
 
 ---
 
